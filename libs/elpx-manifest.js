@@ -113,8 +113,6 @@ window.__ELPX_MANIFEST__={
     "html/5-actividades-complementarias-y-extraescolares.html",
     "html/6-atribucion-y-fichero-descargable.html",
     "html/descargar-exe.html",
-    "html/6-atribucion-y-fichero-descargable-copy.html",
-    "html/descargar-exe-2.html",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "Actividad 2a"
